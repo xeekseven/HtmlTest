@@ -1,0 +1,25 @@
+html{  height:100% }
+body{
+    height: 100%;
+}
+#main-div{
+    height: 100%;
+}
+.content-main{
+    height: 100%;
+}
+.vercode-div{
+    margin: 40% 2% 8% 2%;
+    height: 30%;
+}
+.vercode-div-title{
+    text-align: center;
+    font-size: 10rem;
+    font-family: KaiTi;
+    font-weight: bold;
+}
+.vercode-div-content{
+    text-align: center;
+    font-size: 9rem;
+    margin: 12rem 6rem 6rem 6rem;
+}
