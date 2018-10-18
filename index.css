@@ -15,13 +15,14 @@ body{
 .vercode-div-title{
     text-align: center;
     font-size: 10rem;
-    font-family: KaiTi;
+    font-family: 幼圆;
     font-weight: bold;
 }
 .vercode-div-content{
     text-align: center;
     font-size: 9rem;
     margin: 12rem 6rem 6rem 6rem;
+    font-family:幼圆;
 }
 .verbtn{
     color: #fff;
@@ -29,7 +30,7 @@ body{
     border-color: #46b8da;
     height: 18rem;
     font-size: 8rem;
-    font-family: KaiTi;
+    font-family: 幼圆;
 }
 .verbtn:hover{
     background-color:  #2f95b3;
